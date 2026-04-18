@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  color: #2a2a28;
+  background-color: #f4f3f0;
+  background-image:
+    radial-gradient(ellipse 80% 60% at 15% 10%, rgba(168, 176, 160, 0.35), transparent 60%),
+    radial-gradient(ellipse 70% 60% at 85% 20%, rgba(203, 195, 180, 0.4), transparent 60%),
+    radial-gradient(ellipse 90% 70% at 50% 100%, rgba(180, 178, 173, 0.35), transparent 60%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/55 backdrop-blur-xl border border-white/60 shadow-glass;
+  }
+  .glass-strong {
+    @apply bg-white/70 backdrop-blur-2xl border border-white/70 shadow-glass-lg;
+  }
+  .glass-subtle {
+    @apply bg-white/35 backdrop-blur-lg border border-white/40;
+  }
+  .glass-dark {
+    @apply bg-ink-900/70 backdrop-blur-xl border border-white/10 text-white;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition active:scale-[0.98] disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-primary {
+    @apply btn bg-ink-900 text-white hover:bg-ink-800 shadow-soft;
+  }
+  .btn-ghost {
+    @apply btn bg-white/40 backdrop-blur-md border border-white/60 text-ink-800 hover:bg-white/70;
+  }
+  .btn-outline {
+    @apply btn border border-ink-300 text-ink-700 hover:bg-ink-50;
+  }
+
+  .input {
+    @apply w-full rounded-xl border border-white/70 bg-white/50 backdrop-blur-md px-4 py-2.5 text-sm text-ink-900 placeholder-ink-400 shadow-soft outline-none transition focus:border-ink-400 focus:bg-white/80 focus:ring-2 focus:ring-ink-200/60;
+  }
+  .label {
+    @apply block text-xs font-medium uppercase tracking-wider text-ink-500 mb-1.5;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-white/60 bg-white/50 backdrop-blur-md px-3 py-1 text-xs font-medium text-ink-700;
+  }
+  .badge-success { @apply chip text-emerald-700 border-emerald-200/60 bg-emerald-50/60; }
+  .badge-warn    { @apply chip text-amber-700 border-amber-200/60 bg-amber-50/60; }
+  .badge-danger  { @apply chip text-rose-700 border-rose-200/60 bg-rose-50/60; }
+
+  .card {
+    @apply glass rounded-2xl p-6;
+  }
+  .card-hover {
+    @apply transition hover:shadow-glass-lg hover:bg-white/70;
+  }
+}

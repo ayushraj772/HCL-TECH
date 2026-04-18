@@ -1,0 +1,6 @@
+[
+  { "name": "Demo Admin",   "email": "admin@demo.com",   "password": "pass1234", "phone": "9999900001", "role": "admin" },
+  { "name": "Demo Citizen", "email": "citizen@demo.com", "password": "pass1234", "phone": "9999900002", "role": "citizen" },
+  { "name": "Priya Sharma", "email": "priya@demo.com",   "password": "pass1234", "phone": "9876543210", "role": "citizen" },
+  { "name": "Rahul Mehta",  "email": "rahul@demo.com",   "password": "pass1234", "phone": "9123456789", "role": "citizen" }
+]

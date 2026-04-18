@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Apollo Hospital",
+    "city": "Mumbai",
+    "pincode": "400050",
+    "address": "Plot No. E-1/3, Road No. 1, MIDC, Andheri East, Mumbai",
+    "phone": "+91-22-6780-0000",
+    "email": "contact@apollo-mum.example"
+  },
+  {
+    "name": "Kokilaben Dhirubhai Ambani Hospital",
+    "city": "Mumbai",
+    "pincode": "400053",
+    "address": "Rao Saheb Achutrao Patwardhan Marg, Four Bungalows, Andheri West, Mumbai",
+    "phone": "+91-22-3069-9999",
+    "email": "info@kdah-mum.example"
+  },
+  {
+    "name": "Lilavati Hospital",
+    "city": "Mumbai",
+    "pincode": "400050",
+    "address": "A-791, Bandra Reclamation, Bandra West, Mumbai",
+    "phone": "+91-22-2675-1000",
+    "email": "info@lilavati-mum.example"
+  },
+  {
+    "name": "AIIMS Delhi",
+    "city": "Delhi",
+    "pincode": "110029",
+    "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi",
+    "phone": "+91-11-2658-8500",
+    "email": "info@aiims-del.example"
+  },
+  {
+    "name": "Fortis Memorial Research Institute",
+    "city": "Gurugram",
+    "pincode": "122002",
+    "address": "Sector 44, Opposite HUDA City Centre, Gurugram, Haryana",
+    "phone": "+91-124-4921-021",
+    "email": "fmri@fortis-grg.example"
+  },
+  {
+    "name": "Medanta – The Medicity",
+    "city": "Gurugram",
+    "pincode": "122001",
+    "address": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana",
+    "phone": "+91-124-4141-414",
+    "email": "care@medanta-grg.example"
+  },
+  {
+    "name": "Narayana Multispeciality Hospital",
+    "city": "Bangalore",
+    "pincode": "560099",
+    "address": "258/A, Bommasandra Industrial Area, Hosur Road, Bangalore",
+    "phone": "+91-80-7122-2200",
+    "email": "info@narayana-blr.example"
+  },
+  {
+    "name": "Manipal Hospital",
+    "city": "Bangalore",
+    "pincode": "560017",
+    "address": "98, HAL Airport Road, Kodihalli, Bangalore",
+    "phone": "+91-80-2502-4444",
+    "email": "care@manipal-blr.example"
+  },
+  {
+    "name": "Global Hospitals",
+    "city": "Hyderabad",
+    "pincode": "500004",
+    "address": "6-1-1070/1 to 4, Lakdi Ka Pul, Hyderabad",
+    "phone": "+91-40-3040-4040",
+    "email": "info@global-hyd.example"
+  },
+  {
+    "name": "Ruby Hall Clinic",
+    "city": "Pune",
+    "pincode": "411001",
+    "address": "40, Sassoon Road, Opposite Jehangir Hospital, Pune",
+    "phone": "+91-20-6645-5555",
+    "email": "info@rubyhall-pun.example"
+  },
+  {
+    "name": "CMC Vellore",
+    "city": "Vellore",
+    "pincode": "632004",
+    "address": "Ida Scudder Road, Vellore, Tamil Nadu",
+    "phone": "+91-416-228-1000",
+    "email": "info@cmc-vel.example"
+  },
+  {
+    "name": "PGIMER Chandigarh",
+    "city": "Chandigarh",
+    "pincode": "160012",
+    "address": "Sector 12, Chandigarh",
+    "phone": "+91-172-274-6018",
+    "email": "info@pgimer-chd.example"
+  }
+]

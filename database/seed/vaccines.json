@@ -1,0 +1,67 @@
+[
+  { "hospitalName": "Apollo Hospital",          "name": "Covishield",       "manufacturer": "Serum Institute of India",  "pricePerDose": 780,  "description": "AstraZeneca COVID-19 vaccine, 2 doses required" },
+  { "hospitalName": "Apollo Hospital",          "name": "Covaxin",          "manufacturer": "Bharat Biotech",           "pricePerDose": 1200, "description": "India's indigenous COVID-19 vaccine" },
+  { "hospitalName": "Apollo Hospital",          "name": "Hepatitis B",      "manufacturer": "GSK",                      "pricePerDose": 450,  "description": "Prevents Hepatitis B infection, 3-dose schedule" },
+  { "hospitalName": "Apollo Hospital",          "name": "Influenza",        "manufacturer": "Sanofi Pasteur",           "pricePerDose": 650,  "description": "Annual seasonal flu vaccine" },
+  { "hospitalName": "Apollo Hospital",          "name": "Typhoid Conjugate","manufacturer": "Bharat Biotech",           "pricePerDose": 320,  "description": "Typhoid prevention, single dose" },
+
+  { "hospitalName": "Kokilaben Dhirubhai Ambani Hospital", "name": "Covaxin",      "manufacturer": "Bharat Biotech",       "pricePerDose": 1250, "description": "India's indigenous COVID-19 vaccine" },
+  { "hospitalName": "Kokilaben Dhirubhai Ambani Hospital", "name": "HPV (Gardasil)","manufacturer": "MSD",                 "pricePerDose": 3200, "description": "Human Papillomavirus vaccine, 3-dose schedule" },
+  { "hospitalName": "Kokilaben Dhirubhai Ambani Hospital", "name": "Varicella",    "manufacturer": "GSK",                  "pricePerDose": 1800, "description": "Chickenpox vaccine" },
+  { "hospitalName": "Kokilaben Dhirubhai Ambani Hospital", "name": "Pneumococcal", "manufacturer": "Pfizer",               "pricePerDose": 3500, "description": "Prevnar 13 – prevents pneumonia & meningitis" },
+
+  { "hospitalName": "Lilavati Hospital",        "name": "Covishield",       "manufacturer": "Serum Institute of India",  "pricePerDose": 800,  "description": "AstraZeneca COVID-19 vaccine" },
+  { "hospitalName": "Lilavati Hospital",        "name": "MMR",              "manufacturer": "Serum Institute of India",  "pricePerDose": 360,  "description": "Measles, Mumps & Rubella combined vaccine" },
+  { "hospitalName": "Lilavati Hospital",        "name": "Hepatitis A",      "manufacturer": "GSK",                      "pricePerDose": 900,  "description": "Havrix – Hepatitis A prevention, 2-dose schedule" },
+  { "hospitalName": "Lilavati Hospital",        "name": "Meningococcal",    "manufacturer": "Pfizer",                   "pricePerDose": 2700, "description": "Meningococcal conjugate vaccine" },
+
+  { "hospitalName": "AIIMS Delhi",              "name": "Covishield",       "manufacturer": "Serum Institute of India",  "pricePerDose": 250,  "description": "Subsidised COVID-19 vaccine under national program" },
+  { "hospitalName": "AIIMS Delhi",              "name": "Covaxin",          "manufacturer": "Bharat Biotech",           "pricePerDose": 250,  "description": "Subsidised COVID-19 vaccine under national program" },
+  { "hospitalName": "AIIMS Delhi",              "name": "HPV (Cervarix)",   "manufacturer": "GSK",                      "pricePerDose": 2000, "description": "Bivalent HPV vaccine for cervical cancer prevention" },
+  { "hospitalName": "AIIMS Delhi",              "name": "DPT Booster",      "manufacturer": "Serum Institute of India",  "pricePerDose": 180,  "description": "Diphtheria, Pertussis & Tetanus booster" },
+  { "hospitalName": "AIIMS Delhi",              "name": "Rotavirus",        "manufacturer": "Bharat Biotech",           "pricePerDose": 400,  "description": "Rotasiil oral vaccine – prevents severe diarrhoea in infants" },
+
+  { "hospitalName": "Fortis Memorial Research Institute", "name": "Covishield",    "manufacturer": "Serum Institute of India", "pricePerDose": 820,  "description": "AstraZeneca COVID-19 vaccine" },
+  { "hospitalName": "Fortis Memorial Research Institute", "name": "Pneumococcal",  "manufacturer": "Pfizer",                  "pricePerDose": 3800, "description": "Prevnar 13 – pneumococcal conjugate vaccine" },
+  { "hospitalName": "Fortis Memorial Research Institute", "name": "Influenza",     "manufacturer": "Abbott",                  "pricePerDose": 700,  "description": "Quadrivalent influenza vaccine" },
+  { "hospitalName": "Fortis Memorial Research Institute", "name": "Typhoid Vi",    "manufacturer": "Sanofi Pasteur",          "pricePerDose": 350,  "description": "Typhim Vi – typhoid polysaccharide vaccine" },
+
+  { "hospitalName": "Medanta – The Medicity",   "name": "Covaxin",          "manufacturer": "Bharat Biotech",           "pricePerDose": 1100, "description": "India's indigenous inactivated COVID-19 vaccine" },
+  { "hospitalName": "Medanta – The Medicity",   "name": "HPV (Gardasil 9)", "manufacturer": "MSD",                     "pricePerDose": 4200, "description": "9-valent HPV vaccine – broadest protection" },
+  { "hospitalName": "Medanta – The Medicity",   "name": "Varicella",        "manufacturer": "Merck",                   "pricePerDose": 2000, "description": "Varivax – chickenpox prevention" },
+  { "hospitalName": "Medanta – The Medicity",   "name": "Hepatitis A+B",    "manufacturer": "GSK",                     "pricePerDose": 1400, "description": "Twinrix – combined Hep A & B vaccine, 3-dose schedule" },
+  { "hospitalName": "Medanta – The Medicity",   "name": "Japanese Encephalitis","manufacturer": "Bharat Biotech",      "pricePerDose": 950,  "description": "JENVAC – JE vaccine for adults & children" },
+
+  { "hospitalName": "Narayana Multispeciality Hospital", "name": "Covishield", "manufacturer": "Serum Institute of India", "pricePerDose": 700,  "description": "AstraZeneca COVID-19 vaccine" },
+  { "hospitalName": "Narayana Multispeciality Hospital", "name": "MMR",        "manufacturer": "Serum Institute of India", "pricePerDose": 320,  "description": "MMR-VaxPro – measles, mumps, rubella" },
+  { "hospitalName": "Narayana Multispeciality Hospital", "name": "DPT Booster","manufacturer": "Serum Institute of India", "pricePerDose": 175,  "description": "Diphtheria, Pertussis & Tetanus booster" },
+  { "hospitalName": "Narayana Multispeciality Hospital", "name": "Rotavirus",  "manufacturer": "GSK",                      "pricePerDose": 500,  "description": "Rotarix – oral rotavirus vaccine" },
+
+  { "hospitalName": "Manipal Hospital",         "name": "Covaxin",          "manufacturer": "Bharat Biotech",           "pricePerDose": 1150, "description": "India's indigenous COVID-19 vaccine" },
+  { "hospitalName": "Manipal Hospital",         "name": "Influenza",        "manufacturer": "Sanofi Pasteur",           "pricePerDose": 620,  "description": "Vaxigrip Tetra – quadrivalent influenza vaccine" },
+  { "hospitalName": "Manipal Hospital",         "name": "Hepatitis B",      "manufacturer": "Bharat Biotech",           "pricePerDose": 420,  "description": "Engerix B – hepatitis B vaccine" },
+  { "hospitalName": "Manipal Hospital",         "name": "Meningococcal",    "manufacturer": "GSK",                     "pricePerDose": 2500, "description": "Mencevax – meningococcal polysaccharide vaccine" },
+  { "hospitalName": "Manipal Hospital",         "name": "Varicella",        "manufacturer": "GSK",                     "pricePerDose": 1750, "description": "Varilrix – chickenpox vaccine" },
+
+  { "hospitalName": "Global Hospitals",         "name": "Covishield",       "manufacturer": "Serum Institute of India", "pricePerDose": 760,  "description": "AstraZeneca COVID-19 vaccine" },
+  { "hospitalName": "Global Hospitals",         "name": "Typhoid Conjugate","manufacturer": "Bharat Biotech",          "pricePerDose": 300,  "description": "Typbar TCV – typhoid conjugate vaccine" },
+  { "hospitalName": "Global Hospitals",         "name": "Hepatitis A",      "manufacturer": "Merck",                   "pricePerDose": 850,  "description": "Vaqta – hepatitis A vaccine" },
+  { "hospitalName": "Global Hospitals",         "name": "Pneumococcal",     "manufacturer": "Pfizer",                  "pricePerDose": 3300, "description": "Prevnar 13 – pneumococcal protection" },
+
+  { "hospitalName": "Ruby Hall Clinic",         "name": "Covaxin",          "manufacturer": "Bharat Biotech",          "pricePerDose": 1100, "description": "India's indigenous COVID-19 vaccine" },
+  { "hospitalName": "Ruby Hall Clinic",         "name": "HPV (Gardasil)",   "manufacturer": "MSD",                    "pricePerDose": 3000, "description": "Human Papillomavirus – cervical cancer prevention" },
+  { "hospitalName": "Ruby Hall Clinic",         "name": "Influenza",        "manufacturer": "Sanofi Pasteur",          "pricePerDose": 580,  "description": "Annual seasonal flu vaccine" },
+  { "hospitalName": "Ruby Hall Clinic",         "name": "Hepatitis B",      "manufacturer": "GSK",                    "pricePerDose": 440,  "description": "Engerix B – hepatitis B vaccine" },
+
+  { "hospitalName": "CMC Vellore",             "name": "Covishield",       "manufacturer": "Serum Institute of India", "pricePerDose": 200,  "description": "Subsidised COVID-19 vaccine" },
+  { "hospitalName": "CMC Vellore",             "name": "MMR",              "manufacturer": "Serum Institute of India", "pricePerDose": 280,  "description": "Measles, Mumps & Rubella" },
+  { "hospitalName": "CMC Vellore",             "name": "DPT Booster",      "manufacturer": "Serum Institute of India", "pricePerDose": 150,  "description": "Diphtheria, Pertussis & Tetanus booster" },
+  { "hospitalName": "CMC Vellore",             "name": "Japanese Encephalitis","manufacturer": "Bharat Biotech",      "pricePerDose": 800,  "description": "JENVAC – protection against Japanese Encephalitis" },
+  { "hospitalName": "CMC Vellore",             "name": "Typhoid Conjugate","manufacturer": "Bharat Biotech",          "pricePerDose": 290,  "description": "Typbar TCV – single dose typhoid vaccine" },
+
+  { "hospitalName": "PGIMER Chandigarh",        "name": "Covishield",       "manufacturer": "Serum Institute of India", "pricePerDose": 200,  "description": "Subsidised COVID-19 vaccine" },
+  { "hospitalName": "PGIMER Chandigarh",        "name": "Covaxin",          "manufacturer": "Bharat Biotech",           "pricePerDose": 200,  "description": "Subsidised COVID-19 vaccine" },
+  { "hospitalName": "PGIMER Chandigarh",        "name": "Hepatitis B",      "manufacturer": "Bharat Biotech",           "pricePerDose": 200,  "description": "Hepatitis B vaccine – government rates" },
+  { "hospitalName": "PGIMER Chandigarh",        "name": "Rotavirus",        "manufacturer": "Bharat Biotech",           "pricePerDose": 350,  "description": "Rotasiil oral vaccine" },
+  { "hospitalName": "PGIMER Chandigarh",        "name": "Pneumococcal",     "manufacturer": "Pfizer",                   "pricePerDose": 2800, "description": "Prevnar 13 – pneumococcal protection" }
+]
